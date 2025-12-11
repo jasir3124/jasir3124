@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-I'm a **17-year-old self-taught engineer** who loves crafting modern, responsive web and mobile experiences. Whether it's a restaurant platform or a smart chat assistant, I build tools that solve real-world problems — and look good doing it.
+I'm a **17-year-old self-taught engineer** who loves crafting modern, responsive web and mobile experiences. Whether it's a restaurant platform or a smart chat assistant, I build tools that solve real-world problems.
 
 When I'm not coding, you'll probably find me:
 - ✍️ Designing clean UI/UX in Figma
